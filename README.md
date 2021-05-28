@@ -8,14 +8,14 @@ Repo to document rosources we use in-house for Web, SEO, and PPC
 + :open_book: Guides
 + :electric_plug: Plugins
 + Themes
-+ Custom Functions
-+ :hammer_and_wrench: Tools
++ :hammer_and_wrench: Custom Functions
++ :toolbox: Tools
 
 :mag_right: SEO
 ====
 + :open_book: Guides
 + :clipboard:	Template
-+ :hammer_and_wrench: Tools
++ :toolbox: Tools
 
 
 :money_with_wings: PPC
