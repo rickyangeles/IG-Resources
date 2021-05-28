@@ -14,7 +14,7 @@ Web
 :mag_right: SEO
 ====
 + :open_book: Guides
-+ Template
++ :clipboard:	Template
 + :hammer_and_wrench: Tools
 
 
