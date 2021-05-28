@@ -3,10 +3,10 @@ Improve and Grow Resources
 Repo to document rosources we use in-house for Web, SEO, and PPC
 
 
-:globe_with_meridians: Web
+:globe_with_meridians: [Web](/web)
 =========
-+ :open_book: [Guides](/web)
-+ :electric_plug: Plugins
++ :open_book: [Guides](/web/guides.md)
++ :electric_plug: [Plugins]()
 + :package:	Themes
 + :hammer_and_wrench: Custom Functions
 + :toolbox: Tools
