@@ -18,5 +18,5 @@ Repo to document rosources we use in-house for Web, SEO, and PPC
 + :hammer_and_wrench: Tools
 
 
-PPC
+:money_with_wings: PPC
 ==========
