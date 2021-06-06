@@ -1,18 +1,10 @@
 # :electric_plug: Plugins
 
-+ [ACF](http://url.com)
-+ [Gravity Forms](http://url.com)
-+ [ACF Extended](http://url.com)
-+ [Yoast SEO](http://url.com)
-+ [Rank Math](http://url.com)
-
 | Plugin Name        | Download Link                        | Have License       |
 | -------------      | ------------------------------------ | ------------------ |
 | ACF PRO            | [:floppy_disk:](http://url.com)      | :heavy_check_mark: |
-| ACF Extended       | [:floppy_disk:](http://url.com)      | Free               |
+| ACF Extended       | [:floppy_disk:](https://wordpress.org/plugins/acf-extended)      | Free               |
 | Gravity Forms      | [:floppy_disk:](http://url.com)      | Anchor.host        |
-| Yoast SEO          | [:floppy_disk:](http://url.com)      | :x:	             |
-| Rank Math          | [:floppy_disk:](http://url.com)      | :x:                |
-| Redirection        | [:floppy_disk:](http://url.com)      | Free               |
-| Rank Math          | [:floppy_disk:](http://url.com)      | :x:                |
-
+| Yoast SEO          | [:floppy_disk:](https://wordpress.org/plugins/wordpress-seo/)      | Free	             |
+| Rank Math          | [:floppy_disk:](https://wordpress.org/plugins/seo-by-rank-math/)      | :x:                |
+| Redirection        | [:floppy_disk:](https://wordpress.org/plugins/redirection/)      | Free               |

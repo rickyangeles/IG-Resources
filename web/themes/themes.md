@@ -1,3 +1,3 @@
 :package: Themes
 =========
-+ [Iggy (I&G Starter )](http://url.com)
++ [Iggy (I&G Starter )](/iggy-starter)
