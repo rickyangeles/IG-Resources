@@ -6,7 +6,7 @@ Repo to document rosources we use in-house for Web, SEO, and PPC
 :globe_with_meridians: [Web](/web)
 =========
 + :open_book: [Guides](/web/guides.md)
-+ :electric_plug: [Plugins](/web/plugins`/plugins.md)
++ :electric_plug: [Plugins](/web/plugins/plugins.md)
 + :package:	[Themes](/web/themes/themes.md)
 + :hammer_and_wrench: Custom Functions
 + :toolbox: Tools
